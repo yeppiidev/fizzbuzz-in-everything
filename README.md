@@ -1,4 +1,4 @@
-# fizzbuzz-everything
+# fizzbuzz-in-everything
 Examples of Fizz Buzz in different programming languages
 
 # Compiling
